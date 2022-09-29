@@ -8,9 +8,8 @@ notification: "Doctors LNA submission period: 25 Oct 2022 - 21 Nov 2022"
 sections:
   - hero:
       title: Doctors LNA Exercise
-      subtitle: "2022"
+      subtitle: "FY22-23 "
       background: /images/hero-banner.png
-      button: Contact Us
       url: /contact-us/
       key_highlights:
         - title: Course catalogue
@@ -18,7 +17,7 @@ sections:
           url: https://google.com
         - title: FAQ
           description: ""
-          url: https://gmail.com
+          url: /faq/
   - infobar:
       title: Doctors LNA submission
       description: Before you submit the application, please make sure that you have
