@@ -17,7 +17,7 @@ sections:
           url: /files/Catalogue.pdf/
         - title: FAQ
           description: ""
-          url: /FAQ/
+          url: /faq/
   - infobar:
       title: Doctors LNA submission
       description: Before you submit the application, please make sure that you have
