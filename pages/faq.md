@@ -42,4 +42,4 @@ It is best to discuss with your team about where they should be focusing their l
 
 10. **How will I know my submission is successful OR which course(s) is approved?** 
 </b>
-Your HOD will be notified by HRPD in due course, roughly Jan-Mar the following year. 
+Your HOD will be notified by HRPD in due course, roughly Jan-Mar the following year.
