@@ -7,8 +7,8 @@ permalink: /
 notification: "Doctors LNA submission period: 25 Oct 2022 - 21 Nov 2022"
 sections:
   - hero:
-      title: Doctors LNA Exercise
-      subtitle: "FY22-23 "
+      title: FY 23 Doctors LNA Exercise
+      subtitle: 25 Oct - 21 Nov 2022
       background: /images/hero-banner.png
       url: /contact-us/
       key_highlights:
