@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: Course catalogue
           description: (View/Download)
-          url: /images/Catalogue.pdf/
+          url: /files/Catalogue.pdf/
         - title: FAQ
           description: ""
           url: /FAQ/
