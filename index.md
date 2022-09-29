@@ -17,7 +17,7 @@ sections:
           url: https://google.com
         - title: FAQ
           description: ""
-          url: /faq/
+          url: /FAQ/
   - infobar:
       title: Doctors LNA submission
       description: Before you submit the application, please make sure that you have
