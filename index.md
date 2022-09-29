@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: Course catalogue
           description: (View/Download)
-          url: https://google.com
+          url: /Catalogue.pdf/
         - title: FAQ
           description: ""
           url: /FAQ/
