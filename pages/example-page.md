@@ -2,4 +2,4 @@
 title: Example Page
 permalink: /example-page/
 ---
-[Catalogue](/files/Catalogue.pdf)
+[Click to download course catalogue](/files/Catalogue.pdf) 
