@@ -23,5 +23,5 @@ sections:
       description: Before you submit the application, please make sure that you have
         discussed with your RO.
       button: Submit
-      url: /faq/
+      url: https://form.gov.sg/617f3c9a5a4e0d00123eaba1
 ---
